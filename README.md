@@ -22,5 +22,4 @@ Here are some ideas to get you started:
   -  TensorFlow
   -  Computational Geometry
 - 😄 Pronouns: He / Him
-- 📫 How to reach me: chuksedison45@yahoo.com
-- 
+
