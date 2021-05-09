@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!! 👋
 
 <!--
 **chuksedison45/chuksedison45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning:
+  -  Cloud Computing
+  -  Embedded Programming
+  -  Web Development
+  -  TensorFlow
+  -  Computational Geometry
+- 😄 Pronouns: He / Him
+- 📫 How to reach me: chuksedison45@yahoo.com
+- 
